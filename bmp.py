@@ -35,4 +35,33 @@ def write_grayscale(filename, pixels):
         bmp.write(b'\x28\x00\x00\x00')  # Image header size in bytes - 40 decimal
         bmp.write(_int32_to_bytes(width))   # IMage width in pixels
         bmp.write(_int32_to_bytes(height))   # IMage height in pixels
-        bmp.write(b'\x01\x00')
+        bmp.write(b'\x01\x00')              # Number of image planes
+        bmp.write(b'\x08\x00')              # Bits per pixel 8 for grayscale
+        bmp.write(b'\x00\x00\x00\x00')      # No compression
+        bmp.write(b'\x00\x00\x00\x00')      # Zero for uncompressed images
+        bmp.write(b'\x00\x00\x00\x00')      # Unused pixels per meter
+        bmp.write(b'\x00\x00\x00\x00')      # Unused pixels per meter
+        bmp.write(b'\x00\x00\x00\x00')      # Use hole color table
+        bmp.write(b'\x00\x00\x00\x00')      # All colors are important
+
+        # Color palette - a linear grayscale
+        for c in range(256):
+            bmp.write(bytes((c, c, c, 0))) # Blue, Green, Red, Zero
+
+        pixel_data_bookmark = bmp.tell()
+        for row in reversed(pixels):    # BMP files are bottom to top
+            row_data = bytes(row)
+            bmp.write(row_data)
+            padding = b'\x00' * (4 - (len(row) % 4))    # Pad row to multiple of four bytes
+            bmp.write(padding)
+
+        #End of File
+        eof_bookmark = bmp.tell()
+
+        # FIll in file size placeholder
+        bmp.seek(size_bookmark)
+        bmp.write(_int32_to_bytes(eof_bookmark))
+
+        #Fill in pixel offset placeholder
+        bmp.seek(pixel_offset_bookmark)
+        bmp.write(_int32_to_bytes(pixel_data_bookmark))
