@@ -33,5 +33,6 @@ def write_sequence(filename, num):
 if __name__ == '__main__':
     write_sequence(filename=sys.argv[1], num=int(sys.argv[2]))
 
+#new comment
 
 
