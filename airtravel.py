@@ -1,4 +1,5 @@
 """Model for aircraft flights"""
+'''Small change'''
 
 class Flight:
     """ A flight with a particular passenger aircraft."""
