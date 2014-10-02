@@ -15,12 +15,12 @@ def write_grayscale(filename, pixels):
         OSError: If the file couldn't be written
     '''
 
-    heigh = len(pixels)
+    height = len(pixels)
     width = width = len(pixels[0])
 
     with open(filename, 'wb') as bmp:
         #BMP Header
-        bmp.writelines(b'BM')
+        bmp.write(b'BM')
 
         size_bookmark = bmp.tell()      #The next four bytes hold the filesize a s 32-bit little-endian
         bmp.write(b'\x00\x00\x00\x00')  #integer. Zero placeholder for now. 
