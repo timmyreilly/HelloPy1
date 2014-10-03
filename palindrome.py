@@ -14,12 +14,22 @@ def digits(x):
     [4, 5, 8, 6, 3, 7, 8]
     '''
 
+    #import pdb; pdb.set_trace() 
+
+    #digs = []
+    #while x != 0:
+    #    div, mod = divmod(x, 10)
+    #    digs.append(mod)
+    #    x = mod
+    #return digs
+
     digs = []
     while x != 0:
         div, mod = divmod(x, 10)
         digs.append(mod)
-        x = mod
+        x = div
     return digs
+
 
 
 def is_palindrome(x):
@@ -40,7 +50,7 @@ def is_palindrome(x):
     for f, r in zip(digs, reversed(digs)):
         if f != r:
             return False
-        return True
+    return True
 
 class Tests(unittest.TestCase):
     '''Tests for the ''is_palindrome()'' function.'''
