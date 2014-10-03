@@ -34,7 +34,16 @@
     <Compile Include="fractal.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="fridge.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="gen.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="palindrome.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="pip.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Practice.py" />
@@ -48,6 +57,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="series.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="text_analyzer.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

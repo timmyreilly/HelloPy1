@@ -1,0 +1,1133 @@
+﻿
+2014-10-03T10:57:45: Start analysis
+2014-10-03T10:57:45: IncludeModulesFromModulePath = win32com
+2014-10-03T10:57:45: Deleting 0 files
+2014-10-03T10:57:45: Scraping builtin modules
+2014-10-03T10:57:45: Command: C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\PythonScraper.py" C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\.ptvs "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB"
+2014-10-03T10:57:47: Output
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\xxsubtype.idb
+2014-10-03T10:57:47: Scraped builtin modules
+2014-10-03T10:57:47: astropy.CallDepth = 0
+2014-10-03T10:57:47: matplotlib.CallDepth = 3
+2014-10-03T10:57:47: pandas.CallDepth = 0
+2014-10-03T10:57:47: sympy.CallDepth = 0
+2014-10-03T10:57:47: Start group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib" with 175 files
+2014-10-03T10:57:48: Parsing "abc" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\abc.py")
+2014-10-03T10:57:48: Parsing "base64" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\base64.py")
+2014-10-03T10:57:48: Parsing "bisect" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\bisect.py")
+2014-10-03T10:57:48: Parsing "codecs" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\codecs.py")
+2014-10-03T10:57:48: Parsing "copy" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\copy.py")
+2014-10-03T10:57:48: Parsing "copyreg" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\copyreg.py")
+2014-10-03T10:57:48: Parsing "fnmatch" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\fnmatch.py")
+2014-10-03T10:57:48: Parsing "functools" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\functools.py")
+2014-10-03T10:57:48: Parsing "genericpath" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\genericpath.py")
+2014-10-03T10:57:48: Parsing "hashlib" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\hashlib.py")
+2014-10-03T10:57:48: Parsing "heapq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\heapq.py")
+2014-10-03T10:57:48: Parsing "hmac" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\hmac.py")
+2014-10-03T10:57:48: Parsing "imp" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\imp.py")
+2014-10-03T10:57:48: Parsing "io" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\io.py")
+2014-10-03T10:57:48: Parsing "keyword" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\keyword.py")
+2014-10-03T10:57:48: Parsing "linecache" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\linecache.py")
+2014-10-03T10:57:48: Parsing "locale" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\locale.py")
+2014-10-03T10:57:48: Parsing "ntpath" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\ntpath.py")
+2014-10-03T10:57:48: Parsing "operator" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\operator.py")
+2014-10-03T10:57:48: Parsing "os" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\os.py")
+2014-10-03T10:57:48: Parsing "posixpath" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\posixpath.py")
+2014-10-03T10:57:48: Parsing "random" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\random.py")
+2014-10-03T10:57:48: Parsing "re" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\re.py")
+2014-10-03T10:57:48: Parsing "reprlib" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\reprlib.py")
+2014-10-03T10:57:48: Parsing "rlcompleter" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\rlcompleter.py")
+2014-10-03T10:57:48: Parsing "shutil" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\shutil.py")
+2014-10-03T10:57:48: Parsing "site" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site.py")
+2014-10-03T10:57:48: Parsing "sre_compile" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\sre_compile.py")
+2014-10-03T10:57:48: Parsing "sre_constants" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\sre_constants.py")
+2014-10-03T10:57:48: Parsing "sre_parse" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\sre_parse.py")
+2014-10-03T10:57:48: Parsing "stat" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\stat.py")
+2014-10-03T10:57:48: Parsing "struct" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\struct.py")
+2014-10-03T10:57:48: Parsing "tarfile" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\tarfile.py")
+2014-10-03T10:57:48: Parsing "tempfile" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\tempfile.py")
+2014-10-03T10:57:48: Parsing "token" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\token.py")
+2014-10-03T10:57:48: Parsing "tokenize" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\tokenize.py")
+2014-10-03T10:57:48: Parsing "types" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\types.py")
+2014-10-03T10:57:48: Parsing "warnings" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\warnings.py")
+2014-10-03T10:57:48: Parsing "weakref" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\weakref.py")
+2014-10-03T10:57:48: Parsing "_bootlocale" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\_bootlocale.py")
+2014-10-03T10:57:48: Parsing "_collections_abc" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\_collections_abc.py")
+2014-10-03T10:57:48: Parsing "_dummy_thread" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\_dummy_thread.py")
+2014-10-03T10:57:48: Parsing "_weakrefset" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\_weakrefset.py")
+2014-10-03T10:57:48: Parsing "__future__" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\__future__.py")
+2014-10-03T10:57:48: Parsing "collections.abc" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\collections\abc.py")
+2014-10-03T10:57:48: Parsing "collections" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\collections\__init__.py")
+2014-10-03T10:57:48: Parsing "collections.__main__" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\collections\__main__.py")
+2014-10-03T10:57:48: Parsing "distutils" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\distutils\__init__.py")
+2014-10-03T10:57:48: Parsing "encodings.aliases" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\aliases.py")
+2014-10-03T10:57:48: Parsing "encodings.ascii" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\ascii.py")
+2014-10-03T10:57:48: Parsing "encodings.base64_codec" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\base64_codec.py")
+2014-10-03T10:57:48: Parsing "encodings.big5" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\big5.py")
+2014-10-03T10:57:48: Parsing "encodings.big5hkscs" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\big5hkscs.py")
+2014-10-03T10:57:48: Parsing "encodings.bz2_codec" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\bz2_codec.py")
+2014-10-03T10:57:48: Parsing "encodings.charmap" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\charmap.py")
+2014-10-03T10:57:48: Parsing "encodings.cp037" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp037.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1006" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1006.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1026" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1026.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1125" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1125.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1140" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1140.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1250" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1250.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1251" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1251.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1252" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1252.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1253" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1253.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1254" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1254.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1255" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1255.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1256" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1256.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1257" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1257.py")
+2014-10-03T10:57:48: Parsing "encodings.cp1258" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp1258.py")
+2014-10-03T10:57:48: Parsing "encodings.cp273" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp273.py")
+2014-10-03T10:57:48: Parsing "encodings.cp424" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp424.py")
+2014-10-03T10:57:48: Parsing "encodings.cp437" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp437.py")
+2014-10-03T10:57:48: Parsing "encodings.cp500" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp500.py")
+2014-10-03T10:57:48: Parsing "encodings.cp65001" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp65001.py")
+2014-10-03T10:57:48: Parsing "encodings.cp720" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp720.py")
+2014-10-03T10:57:48: Parsing "encodings.cp737" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp737.py")
+2014-10-03T10:57:48: Parsing "encodings.cp775" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp775.py")
+2014-10-03T10:57:48: Parsing "encodings.cp850" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp850.py")
+2014-10-03T10:57:48: Parsing "encodings.cp852" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp852.py")
+2014-10-03T10:57:48: Parsing "encodings.cp855" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp855.py")
+2014-10-03T10:57:48: Parsing "encodings.cp856" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp856.py")
+2014-10-03T10:57:48: Parsing "encodings.cp857" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp857.py")
+2014-10-03T10:57:48: Parsing "encodings.cp858" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp858.py")
+2014-10-03T10:57:48: Parsing "encodings.cp860" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp860.py")
+2014-10-03T10:57:48: Parsing "encodings.cp861" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp861.py")
+2014-10-03T10:57:48: Parsing "encodings.cp862" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp862.py")
+2014-10-03T10:57:48: Parsing "encodings.cp863" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp863.py")
+2014-10-03T10:57:48: Parsing "encodings.cp864" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp864.py")
+2014-10-03T10:57:48: Parsing "encodings.cp865" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp865.py")
+2014-10-03T10:57:48: Parsing "encodings.cp866" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp866.py")
+2014-10-03T10:57:48: Parsing "encodings.cp869" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp869.py")
+2014-10-03T10:57:48: Parsing "encodings.cp874" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp874.py")
+2014-10-03T10:57:48: Parsing "encodings.cp875" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp875.py")
+2014-10-03T10:57:48: Parsing "encodings.cp932" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp932.py")
+2014-10-03T10:57:48: Parsing "encodings.cp949" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp949.py")
+2014-10-03T10:57:48: Parsing "encodings.cp950" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\cp950.py")
+2014-10-03T10:57:48: Parsing "encodings.euc_jisx0213" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\euc_jisx0213.py")
+2014-10-03T10:57:48: Parsing "encodings.euc_jis_2004" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\euc_jis_2004.py")
+2014-10-03T10:57:48: Parsing "encodings.euc_jp" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\euc_jp.py")
+2014-10-03T10:57:48: Parsing "encodings.euc_kr" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\euc_kr.py")
+2014-10-03T10:57:48: Parsing "encodings.gb18030" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\gb18030.py")
+2014-10-03T10:57:48: Parsing "encodings.gb2312" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\gb2312.py")
+2014-10-03T10:57:48: Parsing "encodings.gbk" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\gbk.py")
+2014-10-03T10:57:48: Parsing "encodings.hex_codec" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\hex_codec.py")
+2014-10-03T10:57:48: Parsing "encodings.hp_roman8" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\hp_roman8.py")
+2014-10-03T10:57:48: Parsing "encodings.hz" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\hz.py")
+2014-10-03T10:57:48: Parsing "encodings.idna" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\idna.py")
+2014-10-03T10:57:48: Parsing "encodings.iso2022_jp" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso2022_jp.py")
+2014-10-03T10:57:48: Parsing "encodings.iso2022_jp_1" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso2022_jp_1.py")
+2014-10-03T10:57:48: Parsing "encodings.iso2022_jp_2" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso2022_jp_2.py")
+2014-10-03T10:57:48: Parsing "encodings.iso2022_jp_2004" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso2022_jp_2004.py")
+2014-10-03T10:57:48: Parsing "encodings.iso2022_jp_3" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso2022_jp_3.py")
+2014-10-03T10:57:48: Parsing "encodings.iso2022_jp_ext" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso2022_jp_ext.py")
+2014-10-03T10:57:48: Parsing "encodings.iso2022_kr" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso2022_kr.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_1" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_1.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_10" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_10.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_11" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_11.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_13" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_13.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_14" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_14.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_15" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_15.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_16" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_16.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_2" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_2.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_3" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_3.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_4" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_4.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_5" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_5.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_6" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_6.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_7" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_7.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_8" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_8.py")
+2014-10-03T10:57:48: Parsing "encodings.iso8859_9" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\iso8859_9.py")
+2014-10-03T10:57:48: Parsing "encodings.johab" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\johab.py")
+2014-10-03T10:57:48: Parsing "encodings.koi8_r" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\koi8_r.py")
+2014-10-03T10:57:48: Parsing "encodings.koi8_u" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\koi8_u.py")
+2014-10-03T10:57:48: Parsing "encodings.latin_1" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\latin_1.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_arabic" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_arabic.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_centeuro" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_centeuro.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_croatian" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_croatian.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_cyrillic" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_cyrillic.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_farsi" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_farsi.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_greek" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_greek.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_iceland" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_iceland.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_latin2" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_latin2.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_roman" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_roman.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_romanian" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_romanian.py")
+2014-10-03T10:57:48: Parsing "encodings.mac_turkish" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mac_turkish.py")
+2014-10-03T10:57:48: Parsing "encodings.mbcs" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\mbcs.py")
+2014-10-03T10:57:48: Parsing "encodings.palmos" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\palmos.py")
+2014-10-03T10:57:48: Parsing "encodings.ptcp154" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\ptcp154.py")
+2014-10-03T10:57:48: Parsing "encodings.punycode" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\punycode.py")
+2014-10-03T10:57:48: Parsing "encodings.quopri_codec" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\quopri_codec.py")
+2014-10-03T10:57:48: Parsing "encodings.raw_unicode_escape" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\raw_unicode_escape.py")
+2014-10-03T10:57:48: Parsing "encodings.rot_13" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\rot_13.py")
+2014-10-03T10:57:48: Parsing "encodings.shift_jis" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\shift_jis.py")
+2014-10-03T10:57:48: Parsing "encodings.shift_jisx0213" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\shift_jisx0213.py")
+2014-10-03T10:57:48: Parsing "encodings.shift_jis_2004" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\shift_jis_2004.py")
+2014-10-03T10:57:48: Parsing "encodings.tis_620" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\tis_620.py")
+2014-10-03T10:57:48: Parsing "encodings.undefined" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\undefined.py")
+2014-10-03T10:57:48: Parsing "encodings.unicode_escape" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\unicode_escape.py")
+2014-10-03T10:57:48: Parsing "encodings.unicode_internal" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\unicode_internal.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_16" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_16.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_16_be" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_16_be.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_16_le" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_16_le.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_32" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_32.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_32_be" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_32_be.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_32_le" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_32_le.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_7" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_7.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_8" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_8.py")
+2014-10-03T10:57:48: Parsing "encodings.utf_8_sig" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\utf_8_sig.py")
+2014-10-03T10:57:48: Parsing "encodings.uu_codec" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\uu_codec.py")
+2014-10-03T10:57:48: Parsing "encodings.zlib_codec" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\zlib_codec.py")
+2014-10-03T10:57:48: Parsing "encodings" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\encodings\__init__.py")
+2014-10-03T10:57:48: Parsing "importlib.abc" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\importlib\abc.py")
+2014-10-03T10:57:48: Parsing "importlib.machinery" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\importlib\machinery.py")
+2014-10-03T10:57:48: Parsing "importlib.util" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\importlib\util.py")
+2014-10-03T10:57:48: Parsing "importlib._bootstrap" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\importlib\_bootstrap.py")
+2014-10-03T10:57:48: Parsing "importlib" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\importlib\__init__.py")
+2014-10-03T10:57:48: Parsing complete
+2014-10-03T10:57:48: Analyzing "abc"
+2014-10-03T10:57:48: Analyzing "base64"
+2014-10-03T10:57:48: Analyzing "bisect"
+2014-10-03T10:57:48: Analyzing "codecs"
+2014-10-03T10:57:48: Analyzing "copy"
+2014-10-03T10:57:48: Analyzing "copyreg"
+2014-10-03T10:57:48: Analyzing "fnmatch"
+2014-10-03T10:57:48: Analyzing "functools"
+2014-10-03T10:57:48: Analyzing "genericpath"
+2014-10-03T10:57:48: Analyzing "hashlib"
+2014-10-03T10:57:48: Analyzing "heapq"
+2014-10-03T10:57:48: Analyzing "hmac"
+2014-10-03T10:57:48: Analyzing "imp"
+2014-10-03T10:57:48: Analyzing "io"
+2014-10-03T10:57:48: Analyzing "keyword"
+2014-10-03T10:57:48: Analyzing "linecache"
+2014-10-03T10:57:48: Analyzing "locale"
+2014-10-03T10:57:48: Analyzing "ntpath"
+2014-10-03T10:57:48: Analyzing "operator"
+2014-10-03T10:57:48: Analyzing "os"
+2014-10-03T10:57:48: Analyzing "posixpath"
+2014-10-03T10:57:48: Analyzing "random"
+2014-10-03T10:57:48: Analyzing "re"
+2014-10-03T10:57:48: Analyzing "reprlib"
+2014-10-03T10:57:48: Analyzing "rlcompleter"
+2014-10-03T10:57:48: Analyzing "shutil"
+2014-10-03T10:57:48: Analyzing "site"
+2014-10-03T10:57:48: Analyzing "sre_compile"
+2014-10-03T10:57:48: Analyzing "sre_constants"
+2014-10-03T10:57:48: Analyzing "sre_parse"
+2014-10-03T10:57:48: Analyzing "stat"
+2014-10-03T10:57:48: Analyzing "struct"
+2014-10-03T10:57:48: Analyzing "tarfile"
+2014-10-03T10:57:48: Analyzing "tempfile"
+2014-10-03T10:57:48: Analyzing "token"
+2014-10-03T10:57:48: Analyzing "tokenize"
+2014-10-03T10:57:48: Analyzing "types"
+2014-10-03T10:57:48: Analyzing "warnings"
+2014-10-03T10:57:48: Analyzing "weakref"
+2014-10-03T10:57:48: Analyzing "_bootlocale"
+2014-10-03T10:57:48: Analyzing "_collections_abc"
+2014-10-03T10:57:48: Analyzing "_dummy_thread"
+2014-10-03T10:57:48: Analyzing "_weakrefset"
+2014-10-03T10:57:48: Analyzing "__future__"
+2014-10-03T10:57:48: Analyzing "collections.abc"
+2014-10-03T10:57:48: Analyzing "collections"
+2014-10-03T10:57:48: Analyzing "collections.__main__"
+2014-10-03T10:57:48: Analyzing "distutils"
+2014-10-03T10:57:48: Analyzing "encodings.aliases"
+2014-10-03T10:57:48: Analyzing "encodings.ascii"
+2014-10-03T10:57:48: Analyzing "encodings.base64_codec"
+2014-10-03T10:57:48: Analyzing "encodings.big5"
+2014-10-03T10:57:48: Analyzing "encodings.big5hkscs"
+2014-10-03T10:57:48: Analyzing "encodings.bz2_codec"
+2014-10-03T10:57:48: Analyzing "encodings.charmap"
+2014-10-03T10:57:48: Analyzing "encodings.cp037"
+2014-10-03T10:57:48: Analyzing "encodings.cp1006"
+2014-10-03T10:57:48: Analyzing "encodings.cp1026"
+2014-10-03T10:57:48: Analyzing "encodings.cp1125"
+2014-10-03T10:57:48: Analyzing "encodings.cp1140"
+2014-10-03T10:57:48: Analyzing "encodings.cp1250"
+2014-10-03T10:57:48: Analyzing "encodings.cp1251"
+2014-10-03T10:57:48: Analyzing "encodings.cp1252"
+2014-10-03T10:57:48: Analyzing "encodings.cp1253"
+2014-10-03T10:57:48: Analyzing "encodings.cp1254"
+2014-10-03T10:57:48: Analyzing "encodings.cp1255"
+2014-10-03T10:57:48: Analyzing "encodings.cp1256"
+2014-10-03T10:57:48: Analyzing "encodings.cp1257"
+2014-10-03T10:57:48: Analyzing "encodings.cp1258"
+2014-10-03T10:57:48: Analyzing "encodings.cp273"
+2014-10-03T10:57:48: Analyzing "encodings.cp424"
+2014-10-03T10:57:48: Analyzing "encodings.cp437"
+2014-10-03T10:57:48: Analyzing "encodings.cp500"
+2014-10-03T10:57:48: Analyzing "encodings.cp65001"
+2014-10-03T10:57:48: Analyzing "encodings.cp720"
+2014-10-03T10:57:48: Analyzing "encodings.cp737"
+2014-10-03T10:57:48: Analyzing "encodings.cp775"
+2014-10-03T10:57:48: Analyzing "encodings.cp850"
+2014-10-03T10:57:48: Analyzing "encodings.cp852"
+2014-10-03T10:57:48: Analyzing "encodings.cp855"
+2014-10-03T10:57:48: Analyzing "encodings.cp856"
+2014-10-03T10:57:48: Analyzing "encodings.cp857"
+2014-10-03T10:57:48: Analyzing "encodings.cp858"
+2014-10-03T10:57:48: Analyzing "encodings.cp860"
+2014-10-03T10:57:48: Analyzing "encodings.cp861"
+2014-10-03T10:57:48: Analyzing "encodings.cp862"
+2014-10-03T10:57:48: Analyzing "encodings.cp863"
+2014-10-03T10:57:48: Analyzing "encodings.cp864"
+2014-10-03T10:57:48: Analyzing "encodings.cp865"
+2014-10-03T10:57:48: Analyzing "encodings.cp866"
+2014-10-03T10:57:48: Analyzing "encodings.cp869"
+2014-10-03T10:57:48: Analyzing "encodings.cp874"
+2014-10-03T10:57:48: Analyzing "encodings.cp875"
+2014-10-03T10:57:48: Analyzing "encodings.cp932"
+2014-10-03T10:57:48: Analyzing "encodings.cp949"
+2014-10-03T10:57:48: Analyzing "encodings.cp950"
+2014-10-03T10:57:48: Analyzing "encodings.euc_jisx0213"
+2014-10-03T10:57:48: Analyzing "encodings.euc_jis_2004"
+2014-10-03T10:57:48: Analyzing "encodings.euc_jp"
+2014-10-03T10:57:48: Analyzing "encodings.euc_kr"
+2014-10-03T10:57:48: Analyzing "encodings.gb18030"
+2014-10-03T10:57:48: Analyzing "encodings.gb2312"
+2014-10-03T10:57:48: Analyzing "encodings.gbk"
+2014-10-03T10:57:48: Analyzing "encodings.hex_codec"
+2014-10-03T10:57:48: Analyzing "encodings.hp_roman8"
+2014-10-03T10:57:48: Analyzing "encodings.hz"
+2014-10-03T10:57:48: Analyzing "encodings.idna"
+2014-10-03T10:57:48: Analyzing "encodings.iso2022_jp"
+2014-10-03T10:57:48: Analyzing "encodings.iso2022_jp_1"
+2014-10-03T10:57:48: Analyzing "encodings.iso2022_jp_2"
+2014-10-03T10:57:48: Analyzing "encodings.iso2022_jp_2004"
+2014-10-03T10:57:48: Analyzing "encodings.iso2022_jp_3"
+2014-10-03T10:57:48: Analyzing "encodings.iso2022_jp_ext"
+2014-10-03T10:57:48: Analyzing "encodings.iso2022_kr"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_1"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_10"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_11"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_13"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_14"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_15"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_16"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_2"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_3"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_4"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_5"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_6"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_7"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_8"
+2014-10-03T10:57:48: Analyzing "encodings.iso8859_9"
+2014-10-03T10:57:48: Analyzing "encodings.johab"
+2014-10-03T10:57:48: Analyzing "encodings.koi8_r"
+2014-10-03T10:57:48: Analyzing "encodings.koi8_u"
+2014-10-03T10:57:48: Analyzing "encodings.latin_1"
+2014-10-03T10:57:48: Analyzing "encodings.mac_arabic"
+2014-10-03T10:57:48: Analyzing "encodings.mac_centeuro"
+2014-10-03T10:57:48: Analyzing "encodings.mac_croatian"
+2014-10-03T10:57:48: Analyzing "encodings.mac_cyrillic"
+2014-10-03T10:57:48: Analyzing "encodings.mac_farsi"
+2014-10-03T10:57:48: Analyzing "encodings.mac_greek"
+2014-10-03T10:57:48: Analyzing "encodings.mac_iceland"
+2014-10-03T10:57:48: Analyzing "encodings.mac_latin2"
+2014-10-03T10:57:48: Analyzing "encodings.mac_roman"
+2014-10-03T10:57:48: Analyzing "encodings.mac_romanian"
+2014-10-03T10:57:48: Analyzing "encodings.mac_turkish"
+2014-10-03T10:57:48: Analyzing "encodings.mbcs"
+2014-10-03T10:57:48: Analyzing "encodings.palmos"
+2014-10-03T10:57:48: Analyzing "encodings.ptcp154"
+2014-10-03T10:57:48: Analyzing "encodings.punycode"
+2014-10-03T10:57:48: Analyzing "encodings.quopri_codec"
+2014-10-03T10:57:48: Analyzing "encodings.raw_unicode_escape"
+2014-10-03T10:57:48: Analyzing "encodings.rot_13"
+2014-10-03T10:57:48: Analyzing "encodings.shift_jis"
+2014-10-03T10:57:48: Analyzing "encodings.shift_jisx0213"
+2014-10-03T10:57:48: Analyzing "encodings.shift_jis_2004"
+2014-10-03T10:57:48: Analyzing "encodings.tis_620"
+2014-10-03T10:57:48: Analyzing "encodings.undefined"
+2014-10-03T10:57:48: Analyzing "encodings.unicode_escape"
+2014-10-03T10:57:48: Analyzing "encodings.unicode_internal"
+2014-10-03T10:57:48: Analyzing "encodings.utf_16"
+2014-10-03T10:57:48: Analyzing "encodings.utf_16_be"
+2014-10-03T10:57:48: Analyzing "encodings.utf_16_le"
+2014-10-03T10:57:48: Analyzing "encodings.utf_32"
+2014-10-03T10:57:48: Analyzing "encodings.utf_32_be"
+2014-10-03T10:57:48: Analyzing "encodings.utf_32_le"
+2014-10-03T10:57:48: Analyzing "encodings.utf_7"
+2014-10-03T10:57:48: Analyzing "encodings.utf_8"
+2014-10-03T10:57:48: Analyzing "encodings.utf_8_sig"
+2014-10-03T10:57:48: Analyzing "encodings.uu_codec"
+2014-10-03T10:57:48: Analyzing "encodings.zlib_codec"
+2014-10-03T10:57:48: Analyzing "encodings"
+2014-10-03T10:57:48: Analyzing "importlib.abc"
+2014-10-03T10:57:48: Analyzing "importlib.machinery"
+2014-10-03T10:57:48: Analyzing "importlib.util"
+2014-10-03T10:57:48: Analyzing "importlib._bootstrap"
+2014-10-03T10:57:48: Analyzing "importlib"
+2014-10-03T10:57:48: Starting analysis of 175 modules
+2014-10-03T10:57:51: Analysis complete
+2014-10-03T10:57:51: Saving group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib"
+2014-10-03T10:57:52: End of group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib"
+2014-10-03T10:57:52: Deleting 0 files
+
+2014-10-03T11:00:35: Start analysis
+2014-10-03T11:00:35: IncludeModulesFromModulePath = win32com
+2014-10-03T11:00:35: Deleting 0 files
+2014-10-03T11:00:35: astropy.CallDepth = 0
+2014-10-03T11:00:35: matplotlib.CallDepth = 3
+2014-10-03T11:00:35: pandas.CallDepth = 0
+2014-10-03T11:00:35: sympy.CallDepth = 0
+2014-10-03T11:00:35: Start group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\" with 178 files
+2014-10-03T11:00:37: Parsing "pip.basecommand" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\basecommand.py")
+2014-10-03T11:00:37: Parsing "pip.baseparser" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\baseparser.py")
+2014-10-03T11:00:37: Parsing "pip.cmdoptions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\cmdoptions.py")
+2014-10-03T11:00:37: Parsing "pip.download" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\download.py")
+2014-10-03T11:00:37: Parsing "pip.exceptions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\exceptions.py")
+2014-10-03T11:00:37: Parsing "pip.index" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\index.py")
+2014-10-03T11:00:37: Parsing "pip.locations" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\locations.py")
+2014-10-03T11:00:37: Parsing "pip.log" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\log.py")
+2014-10-03T11:00:37: Parsing "pip.pep425tags" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\pep425tags.py")
+2014-10-03T11:00:37: Parsing "pip.req" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\req.py")
+2014-10-03T11:00:37: Parsing "pip.runner" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\runner.py")
+2014-10-03T11:00:37: Parsing "pip.status_codes" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\status_codes.py")
+2014-10-03T11:00:37: Parsing "pip.util" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\util.py")
+2014-10-03T11:00:37: Parsing "pip.wheel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\wheel.py")
+2014-10-03T11:00:37: Parsing "pip" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\__init__.py")
+2014-10-03T11:00:37: Parsing "pip.__main__" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\__main__.py")
+2014-10-03T11:00:37: Parsing "pip.backwardcompat" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\backwardcompat\__init__.py")
+2014-10-03T11:00:37: Parsing "pip.commands.bundle" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\bundle.py")
+2014-10-03T11:00:37: Parsing "pip.commands.completion" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\completion.py")
+2014-10-03T11:00:37: Parsing "pip.commands.freeze" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\freeze.py")
+2014-10-03T11:00:37: Parsing "pip.commands.help" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\help.py")
+2014-10-03T11:00:37: Parsing "pip.commands.install" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\install.py")
+2014-10-03T11:00:37: Parsing "pip.commands.list" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\list.py")
+2014-10-03T11:00:37: Parsing "pip.commands.search" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\search.py")
+2014-10-03T11:00:37: Parsing "pip.commands.show" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\show.py")
+2014-10-03T11:00:37: Parsing "pip.commands.uninstall" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\uninstall.py")
+2014-10-03T11:00:37: Parsing "pip.commands.unzip" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\unzip.py")
+2014-10-03T11:00:37: Parsing "pip.commands.wheel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\wheel.py")
+2014-10-03T11:00:37: Parsing "pip.commands.zip" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\zip.py")
+2014-10-03T11:00:37: Parsing "pip.commands" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\commands\__init__.py")
+2014-10-03T11:00:37: Parsing "pip.vcs.bazaar" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\vcs\bazaar.py")
+2014-10-03T11:00:37: Parsing "pip.vcs.git" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\vcs\git.py")
+2014-10-03T11:00:37: Parsing "pip.vcs.mercurial" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\vcs\mercurial.py")
+2014-10-03T11:00:37: Parsing "pip.vcs.subversion" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\vcs\subversion.py")
+2014-10-03T11:00:37: Parsing "pip.vcs" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\vcs\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.pkg_resources" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\pkg_resources.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.six" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\six.py")
+2014-10-03T11:00:37: Parsing "pip._vendor" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.colorama.ansi" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\colorama\ansi.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\colorama\ansitowin32.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.colorama.initialise" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\colorama\initialise.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.colorama.win32" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\colorama\win32.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.colorama.winterm" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\colorama\winterm.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.colorama" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\colorama\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.compat" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\compat.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.database" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\database.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.index" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\index.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.locators" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\locators.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.manifest" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\manifest.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.markers" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\markers.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.metadata" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\metadata.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.resources" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\resources.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.scripts" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\scripts.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.util" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\util.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.version" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\version.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib.wheel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\wheel.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib._backport.misc" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\_backport\misc.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\_backport\shutil.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\_backport\sysconfig.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\_backport\tarfile.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.distlib._backport" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\distlib\_backport\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.constants" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\constants.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.html5parser" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\html5parser.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.ihatexml" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\ihatexml.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.inputstream" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\inputstream.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.sanitizer" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\sanitizer.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.tokenizer" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\tokenizer.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.utils" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\utils.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\filters\lint.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\filters\optionaltags.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\filters\sanitizer.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\filters\whitespace.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.filters._base" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\filters\_base.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.filters" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\filters\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.serializer" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\serializer\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treeadapters\sax.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treeadapters\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treebuilders\dom.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treebuilders\etree.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treebuilders._base" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treebuilders\_base.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treebuilders\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treewalkers\dom.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treewalkers\etree.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treewalkers._base" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treewalkers\_base.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\treewalkers\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.trie.datrie" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\trie\datrie.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.trie.py" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\trie\py.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.trie._base" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\trie\_base.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.html5lib.trie" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\html5lib\trie\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.adapters" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\adapters.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.api" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\api.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.auth" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\auth.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.certs" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\certs.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.compat" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\compat.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.cookies" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\cookies.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.exceptions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\exceptions.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.hooks" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\hooks.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.models" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\models.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.sessions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\sessions.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.status_codes" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\status_codes.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.structures" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\structures.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.utils" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\utils.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\big5freq.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\big5prober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\chardetect.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.compat" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\compat.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.constants" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\constants.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.escprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\escprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.escsm" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\escsm.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.chardet" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\chardet\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.connection" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\connection.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.fields" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\fields.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\filepost.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.request" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\request.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.response" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\response.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3._collections" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\_collections.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.packages" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\util\request.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\util\response.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\util\url.py")
+2014-10-03T11:00:37: Parsing "pip._vendor.requests.packages.urllib3.util" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2014-10-03T11:00:37: Parsing "pip._vendor._markerlib.markers" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\_markerlib\markers.py")
+2014-10-03T11:00:37: Parsing "pip._vendor._markerlib" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\pip\_vendor\_markerlib\__init__.py")
+2014-10-03T11:00:37: Parsing complete
+2014-10-03T11:00:37: Analyzing "pip.basecommand"
+2014-10-03T11:00:37: Analyzing "pip.baseparser"
+2014-10-03T11:00:37: Analyzing "pip.cmdoptions"
+2014-10-03T11:00:37: Analyzing "pip.download"
+2014-10-03T11:00:37: Analyzing "pip.exceptions"
+2014-10-03T11:00:37: Analyzing "pip.index"
+2014-10-03T11:00:37: Analyzing "pip.locations"
+2014-10-03T11:00:37: Analyzing "pip.log"
+2014-10-03T11:00:37: Analyzing "pip.pep425tags"
+2014-10-03T11:00:37: Analyzing "pip.req"
+2014-10-03T11:00:37: Analyzing "pip.runner"
+2014-10-03T11:00:37: Analyzing "pip.status_codes"
+2014-10-03T11:00:37: Analyzing "pip.util"
+2014-10-03T11:00:37: Analyzing "pip.wheel"
+2014-10-03T11:00:37: Analyzing "pip"
+2014-10-03T11:00:37: Analyzing "pip.__main__"
+2014-10-03T11:00:37: Analyzing "pip.backwardcompat"
+2014-10-03T11:00:37: Analyzing "pip.commands.bundle"
+2014-10-03T11:00:37: Analyzing "pip.commands.completion"
+2014-10-03T11:00:37: Analyzing "pip.commands.freeze"
+2014-10-03T11:00:37: Analyzing "pip.commands.help"
+2014-10-03T11:00:37: Analyzing "pip.commands.install"
+2014-10-03T11:00:37: Analyzing "pip.commands.list"
+2014-10-03T11:00:37: Analyzing "pip.commands.search"
+2014-10-03T11:00:37: Analyzing "pip.commands.show"
+2014-10-03T11:00:37: Analyzing "pip.commands.uninstall"
+2014-10-03T11:00:37: Analyzing "pip.commands.unzip"
+2014-10-03T11:00:37: Analyzing "pip.commands.wheel"
+2014-10-03T11:00:37: Analyzing "pip.commands.zip"
+2014-10-03T11:00:37: Analyzing "pip.commands"
+2014-10-03T11:00:37: Analyzing "pip.vcs.bazaar"
+2014-10-03T11:00:37: Analyzing "pip.vcs.git"
+2014-10-03T11:00:37: Analyzing "pip.vcs.mercurial"
+2014-10-03T11:00:37: Analyzing "pip.vcs.subversion"
+2014-10-03T11:00:37: Analyzing "pip.vcs"
+2014-10-03T11:00:37: Analyzing "pip._vendor.pkg_resources"
+2014-10-03T11:00:37: Analyzing "pip._vendor.six"
+2014-10-03T11:00:37: Analyzing "pip._vendor"
+2014-10-03T11:00:37: Analyzing "pip._vendor.colorama.ansi"
+2014-10-03T11:00:37: Analyzing "pip._vendor.colorama.ansitowin32"
+2014-10-03T11:00:37: Analyzing "pip._vendor.colorama.initialise"
+2014-10-03T11:00:37: Analyzing "pip._vendor.colorama.win32"
+2014-10-03T11:00:37: Analyzing "pip._vendor.colorama.winterm"
+2014-10-03T11:00:37: Analyzing "pip._vendor.colorama"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.compat"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.database"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.index"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.locators"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.manifest"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.markers"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.metadata"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.resources"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.scripts"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.util"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.version"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib.wheel"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib._backport.misc"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib._backport.shutil"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib._backport.tarfile"
+2014-10-03T11:00:37: Analyzing "pip._vendor.distlib._backport"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.constants"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.html5parser"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.ihatexml"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.inputstream"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.sanitizer"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.tokenizer"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.utils"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.filters.lint"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.filters._base"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.filters"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.serializer"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treeadapters"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treebuilders"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.treewalkers"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.trie.datrie"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.trie.py"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.trie._base"
+2014-10-03T11:00:37: Analyzing "pip._vendor.html5lib.trie"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.adapters"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.api"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.auth"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.certs"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.compat"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.cookies"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.exceptions"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.hooks"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.models"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.sessions"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.status_codes"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.structures"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.utils"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.chardet"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2014-10-03T11:00:37: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2014-10-03T11:00:37: Analyzing "pip._vendor._markerlib.markers"
+2014-10-03T11:00:37: Analyzing "pip._vendor._markerlib"
+2014-10-03T11:00:37: Starting analysis of 178 modules
+2014-10-03T11:00:43: Analysis complete
+2014-10-03T11:00:43: Saving group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\"
+2014-10-03T11:00:44: End of group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pip-1.5.6-py3.4.egg\"
+2014-10-03T11:00:44: Start group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie" with 18 files
+2014-10-03T11:00:46: Parsing "httpie.cli" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\cli.py")
+2014-10-03T11:00:46: Parsing "httpie.client" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\client.py")
+2014-10-03T11:00:46: Parsing "httpie.compat" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\compat.py")
+2014-10-03T11:00:46: Parsing "httpie.config" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\config.py")
+2014-10-03T11:00:46: Parsing "httpie.core" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\core.py")
+2014-10-03T11:00:46: Parsing "httpie.downloads" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\downloads.py")
+2014-10-03T11:00:46: Parsing "httpie.input" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\input.py")
+2014-10-03T11:00:46: Parsing "httpie.models" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\models.py")
+2014-10-03T11:00:46: Parsing "httpie.output" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\output.py")
+2014-10-03T11:00:46: Parsing "httpie.sessions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\sessions.py")
+2014-10-03T11:00:46: Parsing "httpie.solarized" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\solarized.py")
+2014-10-03T11:00:46: Parsing "httpie.utils" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\utils.py")
+2014-10-03T11:00:46: Parsing "httpie" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\__init__.py")
+2014-10-03T11:00:46: Parsing "httpie.__main__" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\__main__.py")
+2014-10-03T11:00:46: Parsing "httpie.plugins.base" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\plugins\base.py")
+2014-10-03T11:00:46: Parsing "httpie.plugins.builtin" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\plugins\builtin.py")
+2014-10-03T11:00:46: Parsing "httpie.plugins.manager" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\plugins\manager.py")
+2014-10-03T11:00:46: Parsing "httpie.plugins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie\plugins\__init__.py")
+2014-10-03T11:00:46: Parsing complete
+2014-10-03T11:00:46: Analyzing "httpie.cli"
+2014-10-03T11:00:46: Analyzing "httpie.client"
+2014-10-03T11:00:46: Analyzing "httpie.compat"
+2014-10-03T11:00:46: Analyzing "httpie.config"
+2014-10-03T11:00:46: Analyzing "httpie.core"
+2014-10-03T11:00:46: Analyzing "httpie.downloads"
+2014-10-03T11:00:46: Analyzing "httpie.input"
+2014-10-03T11:00:46: Analyzing "httpie.models"
+2014-10-03T11:00:46: Analyzing "httpie.output"
+2014-10-03T11:00:46: Analyzing "httpie.sessions"
+2014-10-03T11:00:46: Analyzing "httpie.solarized"
+2014-10-03T11:00:46: Analyzing "httpie.utils"
+2014-10-03T11:00:46: Analyzing "httpie"
+2014-10-03T11:00:46: Analyzing "httpie.__main__"
+2014-10-03T11:00:46: Analyzing "httpie.plugins.base"
+2014-10-03T11:00:46: Analyzing "httpie.plugins.builtin"
+2014-10-03T11:00:46: Analyzing "httpie.plugins.manager"
+2014-10-03T11:00:46: Analyzing "httpie.plugins"
+2014-10-03T11:00:46: Starting analysis of 18 modules
+2014-10-03T11:00:46: Analysis complete
+2014-10-03T11:00:46: Saving group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie"
+2014-10-03T11:00:46: End of group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\httpie"
+2014-10-03T11:00:46: Start group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments" with 76 files
+2014-10-03T11:00:47: Parsing "pygments.cmdline" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\cmdline.py")
+2014-10-03T11:00:47: Parsing "pygments.console" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\console.py")
+2014-10-03T11:00:47: Parsing "pygments.filter" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\filter.py")
+2014-10-03T11:00:47: Parsing "pygments.formatter" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatter.py")
+2014-10-03T11:00:47: Parsing "pygments.lexer" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexer.py")
+2014-10-03T11:00:47: Parsing "pygments.plugin" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\plugin.py")
+2014-10-03T11:00:47: Parsing "pygments.scanner" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\scanner.py")
+2014-10-03T11:00:47: Parsing "pygments.style" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\style.py")
+2014-10-03T11:00:47: Parsing "pygments.token" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\token.py")
+2014-10-03T11:00:47: Parsing "pygments.unistring" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\unistring.py")
+2014-10-03T11:00:47: Parsing "pygments.util" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\util.py")
+2014-10-03T11:00:47: Parsing "pygments" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\__init__.py")
+2014-10-03T11:00:47: Parsing "pygments.filters" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\filters\__init__.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.bbcode" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\bbcode.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.html" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\html.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.img" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\img.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.latex" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\latex.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.other" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\other.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.rtf" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\rtf.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.svg" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\svg.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.terminal" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\terminal.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters.terminal256" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\terminal256.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters._mapping" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\_mapping.py")
+2014-10-03T11:00:47: Parsing "pygments.formatters" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\formatters\__init__.py")
+2014-10-03T11:00:47: Parsing "pygments.lexers.agile" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\agile.py")
+2014-10-03T11:00:47: Parsing "pygments.lexers.asm" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\asm.py")
+2014-10-03T11:00:47: Parsing "pygments.lexers.compiled" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\compiled.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.dalvik" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\dalvik.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.dotnet" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\dotnet.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.foxpro" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\foxpro.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.functional" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\functional.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.hdl" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\hdl.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.jvm" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\jvm.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.math" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\math.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.other" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\other.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.parsers" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\parsers.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.shell" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\shell.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.special" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\special.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.sql" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\sql.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.templates" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\templates.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.text" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\text.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers.web" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\web.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._asybuiltins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_asybuiltins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._clbuiltins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_clbuiltins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._lassobuiltins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_lassobuiltins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._luabuiltins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_luabuiltins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._mapping" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_mapping.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._openedgebuiltins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_openedgebuiltins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._phpbuiltins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_phpbuiltins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._postgres_builtins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_postgres_builtins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._robotframeworklexer" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_robotframeworklexer.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._scilab_builtins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_scilab_builtins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._sourcemodbuiltins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_sourcemodbuiltins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._stan_builtins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_stan_builtins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers._vimbuiltins" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\_vimbuiltins.py")
+2014-10-03T11:00:48: Parsing "pygments.lexers" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\lexers\__init__.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.autumn" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\autumn.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.borland" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\borland.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.bw" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\bw.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.colorful" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\colorful.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.default" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\default.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.emacs" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\emacs.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.friendly" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\friendly.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.fruity" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\fruity.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.manni" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\manni.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.monokai" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\monokai.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.murphy" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\murphy.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.native" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\native.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.pastie" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\pastie.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.perldoc" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\perldoc.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.rrt" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\rrt.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.tango" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\tango.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.trac" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\trac.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.vim" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\vim.py")
+2014-10-03T11:00:48: Parsing "pygments.styles.vs" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\vs.py")
+2014-10-03T11:00:48: Parsing "pygments.styles" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments\styles\__init__.py")
+2014-10-03T11:00:48: Parsing complete
+2014-10-03T11:00:48: Analyzing "pygments.cmdline"
+2014-10-03T11:00:48: Analyzing "pygments.console"
+2014-10-03T11:00:48: Analyzing "pygments.filter"
+2014-10-03T11:00:48: Analyzing "pygments.formatter"
+2014-10-03T11:00:48: Analyzing "pygments.lexer"
+2014-10-03T11:00:48: Analyzing "pygments.plugin"
+2014-10-03T11:00:48: Analyzing "pygments.scanner"
+2014-10-03T11:00:48: Analyzing "pygments.style"
+2014-10-03T11:00:48: Analyzing "pygments.token"
+2014-10-03T11:00:48: Analyzing "pygments.unistring"
+2014-10-03T11:00:48: Analyzing "pygments.util"
+2014-10-03T11:00:48: Analyzing "pygments"
+2014-10-03T11:00:48: Analyzing "pygments.filters"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.bbcode"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.html"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.img"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.latex"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.other"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.rtf"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.svg"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.terminal"
+2014-10-03T11:00:48: Analyzing "pygments.formatters.terminal256"
+2014-10-03T11:00:48: Analyzing "pygments.formatters._mapping"
+2014-10-03T11:00:48: Analyzing "pygments.formatters"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.agile"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.asm"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.compiled"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.dalvik"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.dotnet"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.foxpro"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.functional"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.hdl"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.jvm"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.math"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.other"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.parsers"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.shell"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.special"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.sql"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.templates"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.text"
+2014-10-03T11:00:48: Analyzing "pygments.lexers.web"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._asybuiltins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._clbuiltins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._lassobuiltins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._luabuiltins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._mapping"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._openedgebuiltins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._phpbuiltins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._postgres_builtins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._robotframeworklexer"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._scilab_builtins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._sourcemodbuiltins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._stan_builtins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers._vimbuiltins"
+2014-10-03T11:00:48: Analyzing "pygments.lexers"
+2014-10-03T11:00:48: Analyzing "pygments.styles.autumn"
+2014-10-03T11:00:48: Analyzing "pygments.styles.borland"
+2014-10-03T11:00:48: Analyzing "pygments.styles.bw"
+2014-10-03T11:00:48: Analyzing "pygments.styles.colorful"
+2014-10-03T11:00:48: Analyzing "pygments.styles.default"
+2014-10-03T11:00:48: Analyzing "pygments.styles.emacs"
+2014-10-03T11:00:48: Analyzing "pygments.styles.friendly"
+2014-10-03T11:00:48: Analyzing "pygments.styles.fruity"
+2014-10-03T11:00:48: Analyzing "pygments.styles.manni"
+2014-10-03T11:00:48: Analyzing "pygments.styles.monokai"
+2014-10-03T11:00:48: Analyzing "pygments.styles.murphy"
+2014-10-03T11:00:48: Analyzing "pygments.styles.native"
+2014-10-03T11:00:48: Analyzing "pygments.styles.pastie"
+2014-10-03T11:00:48: Analyzing "pygments.styles.perldoc"
+2014-10-03T11:00:48: Analyzing "pygments.styles.rrt"
+2014-10-03T11:00:48: Analyzing "pygments.styles.tango"
+2014-10-03T11:00:48: Analyzing "pygments.styles.trac"
+2014-10-03T11:00:48: Analyzing "pygments.styles.vim"
+2014-10-03T11:00:48: Analyzing "pygments.styles.vs"
+2014-10-03T11:00:48: Analyzing "pygments.styles"
+2014-10-03T11:00:48: Starting analysis of 76 modules
+2014-10-03T11:00:49: Analysis complete
+2014-10-03T11:00:49: Saving group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments"
+2014-10-03T11:00:49: End of group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\pygments"
+2014-10-03T11:00:49: Start group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests" with 79 files
+2014-10-03T11:00:51: Parsing "requests.adapters" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\adapters.py")
+2014-10-03T11:00:51: Parsing "requests.api" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\api.py")
+2014-10-03T11:00:51: Parsing "requests.auth" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\auth.py")
+2014-10-03T11:00:51: Parsing "requests.certs" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\certs.py")
+2014-10-03T11:00:51: Parsing "requests.compat" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\compat.py")
+2014-10-03T11:00:51: Parsing "requests.cookies" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\cookies.py")
+2014-10-03T11:00:51: Parsing "requests.exceptions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\exceptions.py")
+2014-10-03T11:00:51: Parsing "requests.hooks" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\hooks.py")
+2014-10-03T11:00:51: Parsing "requests.models" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\models.py")
+2014-10-03T11:00:51: Parsing "requests.sessions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\sessions.py")
+2014-10-03T11:00:51: Parsing "requests.status_codes" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\status_codes.py")
+2014-10-03T11:00:51: Parsing "requests.structures" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\structures.py")
+2014-10-03T11:00:51: Parsing "requests.utils" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\utils.py")
+2014-10-03T11:00:51: Parsing "requests" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\__init__.py")
+2014-10-03T11:00:51: Parsing "requests.packages" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\__init__.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.big5freq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\big5freq.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.big5prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\big5prober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.chardetect" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\chardetect.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.chardistribution" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\chardistribution.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.charsetgroupprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\charsetgroupprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.charsetprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\charsetprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.codingstatemachine" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\codingstatemachine.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.compat" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\compat.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.constants" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\constants.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.cp949prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\cp949prober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.escprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\escprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.escsm" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\escsm.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.eucjpprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\eucjpprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.euckrfreq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\euckrfreq.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.euckrprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\euckrprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.euctwfreq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\euctwfreq.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.euctwprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\euctwprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.gb2312freq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\gb2312freq.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.gb2312prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\gb2312prober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.hebrewprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\hebrewprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.jisfreq" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\jisfreq.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.jpcntx" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\jpcntx.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.langbulgarianmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\langbulgarianmodel.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.langcyrillicmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\langcyrillicmodel.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.langgreekmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\langgreekmodel.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.langhebrewmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\langhebrewmodel.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.langhungarianmodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\langhungarianmodel.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.langthaimodel" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\langthaimodel.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.latin1prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\latin1prober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.mbcharsetprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\mbcharsetprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.mbcsgroupprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\mbcsgroupprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.mbcssm" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\mbcssm.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.sbcharsetprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\sbcharsetprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.sbcsgroupprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\sbcsgroupprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.sjisprober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\sjisprober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.universaldetector" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\universaldetector.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet.utf8prober" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\utf8prober.py")
+2014-10-03T11:00:51: Parsing "requests.packages.chardet" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\chardet\__init__.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.connection" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\connection.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.connectionpool" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\connectionpool.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.exceptions" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\exceptions.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.fields" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\fields.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.filepost" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\filepost.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.poolmanager" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\poolmanager.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.request" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\request.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.response" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\response.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3._collections" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\_collections.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\__init__.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.contrib.ntlmpool" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\contrib\ntlmpool.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.contrib.pyopenssl" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\contrib\pyopenssl.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.contrib" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\contrib\__init__.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.packages.ordered_dict" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\packages\ordered_dict.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.packages.six" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\packages\six.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.packages" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\packages\__init__.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.packages.ssl_match_hostname" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.util.connection" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\util\connection.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.util.request" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\util\request.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.util.response" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\util\response.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.util.retry" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\util\retry.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.util.ssl_" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\util\ssl_.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.util.timeout" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\util\timeout.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.util.url" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\util\url.py")
+2014-10-03T11:00:51: Parsing "requests.packages.urllib3.util" ("C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests\packages\urllib3\util\__init__.py")
+2014-10-03T11:00:51: Parsing complete
+2014-10-03T11:00:51: Analyzing "requests.adapters"
+2014-10-03T11:00:51: Analyzing "requests.api"
+2014-10-03T11:00:51: Analyzing "requests.auth"
+2014-10-03T11:00:51: Analyzing "requests.certs"
+2014-10-03T11:00:51: Analyzing "requests.compat"
+2014-10-03T11:00:51: Analyzing "requests.cookies"
+2014-10-03T11:00:51: Analyzing "requests.exceptions"
+2014-10-03T11:00:51: Analyzing "requests.hooks"
+2014-10-03T11:00:51: Analyzing "requests.models"
+2014-10-03T11:00:51: Analyzing "requests.sessions"
+2014-10-03T11:00:51: Analyzing "requests.status_codes"
+2014-10-03T11:00:51: Analyzing "requests.structures"
+2014-10-03T11:00:51: Analyzing "requests.utils"
+2014-10-03T11:00:51: Analyzing "requests"
+2014-10-03T11:00:51: Analyzing "requests.packages"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.big5freq"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.big5prober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.chardetect"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.chardistribution"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.charsetgroupprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.charsetprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.codingstatemachine"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.compat"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.constants"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.cp949prober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.escprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.escsm"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.eucjpprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.euckrfreq"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.euckrprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.euctwfreq"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.euctwprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.gb2312freq"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.gb2312prober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.hebrewprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.jisfreq"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.jpcntx"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.langbulgarianmodel"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.langcyrillicmodel"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.langgreekmodel"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.langhebrewmodel"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.langhungarianmodel"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.langthaimodel"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.latin1prober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.mbcharsetprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.mbcsgroupprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.mbcssm"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.sbcharsetprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.sbcsgroupprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.sjisprober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.universaldetector"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet.utf8prober"
+2014-10-03T11:00:51: Analyzing "requests.packages.chardet"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.connection"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.connectionpool"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.exceptions"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.fields"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.filepost"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.poolmanager"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.request"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.response"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3._collections"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.contrib.ntlmpool"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.contrib.pyopenssl"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.contrib"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.packages.ordered_dict"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.packages.six"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.packages"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.packages.ssl_match_hostname"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.util.connection"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.util.request"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.util.response"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.util.retry"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.util.ssl_"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.util.timeout"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.util.url"
+2014-10-03T11:00:51: Analyzing "requests.packages.urllib3.util"
+2014-10-03T11:00:51: Starting analysis of 79 modules
+2014-10-03T11:00:52: Analysis complete
+2014-10-03T11:00:52: Saving group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests"
+2014-10-03T11:00:52: End of group "C:\Users\tireilly\Documents\GitHub\PythonHello\helloPython\HelloPy1\HelloPy1\foo\Lib\site-packages\requests"
+2014-10-03T11:00:53: Deleting 0 files
